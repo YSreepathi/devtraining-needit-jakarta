@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Stock Rule" max_length="40" name="alm_stock_rule" type="collection">
+        <element label="Test_appaccess" max_length="50" name="x_58872_needit_test_appaccess" type="string"/>
+    </element>
+</database>
